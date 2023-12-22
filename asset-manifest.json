@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yashnayak313/react_deploy/static/css/main.c416ad5e.css",
+    "main.js": "/yashnayak313/react_deploy/static/js/main.41584650.js",
+    "index.html": "/yashnayak313/react_deploy/index.html",
+    "main.c416ad5e.css.map": "/yashnayak313/react_deploy/static/css/main.c416ad5e.css.map",
+    "main.41584650.js.map": "/yashnayak313/react_deploy/static/js/main.41584650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c416ad5e.css",
+    "static/js/main.41584650.js"
+  ]
+}
