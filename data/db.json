@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post ",
+      "dateTime": "December 22, 2023 3:44:05 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 5,
+      "title": "Corona 2.0",
+      "dateTime": "December 22, 2023 3:29:43 PM",
+      "body": "This is to inform you that corona 2.0 is near and can cause imense damage. So please be safe and healthy and wear masks."
+    },
+    {
+      "id": 6,
+      "title": "My read post only latest",
+      "dateTime": "December 22, 2023 3:47:48 PM",
+      "body": "This is my new post . It means that I have successfully completed my redux project . Thankyou"
+    },
+    {
+      "id": 7,
+      "title": "New Post",
+      "dateTime": "December 22, 2023 3:28:28 PM",
+      "body": "Checking 1, 2, 3............"
+    }
+  ]
+}
