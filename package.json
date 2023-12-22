@@ -1,7 +1,7 @@
 {
   "name": "blog-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/yashnayak313/react_deploy",
+  "homepage": "https://yashnayak313.github.io/react_deploy",
   "private": true,
   "dependencies": {
     "axios": "^1.4.0",
