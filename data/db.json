@@ -14,8 +14,8 @@
     },
     {
       "id": 6,
-      "title": "My read post only latest",
-      "dateTime": "December 22, 2023 3:47:48 PM",
+      "title": "My read only post",
+      "dateTime": "December 22, 2023 4:04:27 PM",
       "body": "This is my new post . It means that I have successfully completed my redux project . Thankyou"
     },
     {
@@ -23,6 +23,12 @@
       "title": "New Post",
       "dateTime": "December 22, 2023 3:28:28 PM",
       "body": "Checking 1, 2, 3............"
+    },
+    {
+      "id": 8,
+      "title": "Reding is fun ",
+      "dateTime": "December 22, 2023 4:04:59 PM",
+      "body": "fkvn vrjkdnv jkr vjfd vkj vjnrvkjrnfvndxef jnfjrfjknr  jkfrfjkv jrknvjsrjk vkrjsnvkjb"
     }
   ]
 }
